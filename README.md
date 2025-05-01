@@ -3,7 +3,7 @@
 I'm a passionate **Web Developer** and Computer Science student who loves building cool stuff for the web 🚀
 
 I’m interested in:
-- Web development (React, JavaScript, HTML/CSS,Tailwand )
+- Web development (React.Js, JavaScript, HTML/CSS,Tailwand )
 - Open source collaboration 🌍
 - Learning new tech stacks and tools
 - UI/UX design and making intuitive user interfaces
