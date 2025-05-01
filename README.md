@@ -25,6 +25,4 @@ I’m interested in:
 - GitHub: [@fazi-cmd](https://github.com/fazi-cmd)
 - LinkedIn:www.linkedin.com/in/faizan-ahmed-a97271331
 
-⚡ Fun fact: 
-I love clean UI and clean code equally 😎
 
