@@ -20,6 +20,6 @@ To become a highly skilled **Cloud/DevOps Engineer** and work with global compan
 - Kubernetes Microservices Setup  
 
 ## 📫 Connect With Me
-- Email: fhatzsff@gmail.com
+- Email: 2023cs583@student.uet.edu.pk
 
 ⭐ Always open to learning, collaborating, and building cloud-native solutions.
